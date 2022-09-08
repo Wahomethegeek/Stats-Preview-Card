@@ -33,8 +33,8 @@ One  should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Wahomethegeek/Stats-Preview-Card.git)
-- Live Site URL: [Add live site URL here](https://statspreviewcard-wahome.netlify.app/)
+- Solution URL: [stats card](https://github.com/Wahomethegeek/Stats-Preview-Card.git)
+- Live Site URL: [stats preview card](https://statspreviewcard-wahome.netlify.app/)
 
 ## My process
 
@@ -87,7 +87,7 @@ I have realised css has a big scope and I need to give it more time and take con
 
 ## Author
 
-- Frontend Mentor - [@wahomethegeek]https://www.frontendmentor.io/profile/Wahomethegeek)
+- Frontend Mentor - [@wahomethegeek](https://www.frontendmentor.io/profile/Wahomethegeek)
 - Twitter - [@_Wahomekelvin](https://twitter.com/_Wahomekelvin)
 
 
